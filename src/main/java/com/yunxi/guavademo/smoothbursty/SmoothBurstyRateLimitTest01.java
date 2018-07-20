@@ -3,7 +3,7 @@ package com.yunxi.guavademo.smoothbursty;
 import com.google.common.util.concurrent.RateLimiter;
 
 /**
- * 平滑突发限流(smoothbursty)
+ * 平滑突发限流(SmoothBursty)
  */
 public class SmoothBurstyRateLimitTest01 {
 
