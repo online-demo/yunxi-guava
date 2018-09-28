@@ -3,7 +3,9 @@ package com.yunxi.guavademo.smoothbursty;
 import com.google.common.util.concurrent.RateLimiter;
 
 /**
- * 平滑突发限流(SmoothBursty) 使用场景：对冷数据的预热处理
+ * @Author 无双老师
+ * @Date 2018/9/28
+ * @Description 平滑突发限流(SmoothBursty) 使用场景：对冷数据的预热处理
  */
 public class SmoothBurstyRateLimitTest03 {
 
