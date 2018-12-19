@@ -1,4 +1,4 @@
-package com.yunxi.guavademo.seckill;
+package com.yunxi.demo.guava.seckill;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -9,7 +9,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  */
 public class CountUtils {
     /**
-     * 假设秒杀商品总数=200
+     * 假设秒杀商品总数=10
      */
     public static final AtomicInteger TOTAL_COUNT = new AtomicInteger(10);
 

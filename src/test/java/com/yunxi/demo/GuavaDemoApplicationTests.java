@@ -1,4 +1,4 @@
-package com.yunxi.guavademo;
+package com.yunxi.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

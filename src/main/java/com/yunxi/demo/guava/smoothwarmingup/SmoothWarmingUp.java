@@ -1,4 +1,4 @@
-package com.yunxi.guavademo.smoothwarmingup;
+package com.yunxi.demo.guava.smoothwarmingup;
 
 import com.google.common.util.concurrent.RateLimiter;
 

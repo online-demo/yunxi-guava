@@ -1,4 +1,4 @@
-package com.yunxi.guavademo;
+package com.yunxi.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

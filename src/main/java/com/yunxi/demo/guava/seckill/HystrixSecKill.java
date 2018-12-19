@@ -1,4 +1,4 @@
-package com.yunxi.guavademo.seckill;
+package com.yunxi.demo.guava.seckill;
 
 import com.netflix.hystrix.*;
 

@@ -1,4 +1,4 @@
-package com.yunxi.guavademo.smoothbursty;
+package com.yunxi.demo.guava.smoothbursty;
 
 import com.google.common.util.concurrent.RateLimiter;
 
