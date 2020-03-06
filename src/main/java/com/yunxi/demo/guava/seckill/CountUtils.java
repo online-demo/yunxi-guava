@@ -4,7 +4,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * @Author 无双老师
- * @Date 2018/9/28
+ * @Date 2020-03-06
  * @Description 计数器
  */
 public class CountUtils {

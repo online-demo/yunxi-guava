@@ -4,7 +4,7 @@ import com.google.common.util.concurrent.RateLimiter;
 
 /**
  * @Author 无双老师
- * @Date 2018/9/28
+ * @Date 2020-03-06
  * @Description 平滑突发限流(SmoothBursty) 使用场景：对冷数据的预热处理
  */
 public class SmoothBurstyRateLimitTest02 {

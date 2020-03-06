@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * @Author: 无双老师
- * @Date: 2018/11/10
+ * @Date: 2020-03-06
  * @Description:
  * 测试线程池隔离策略
  * 设置线程池里的线程数＝3，然后循环>3次和<3次，最后查看当前所有线程名称

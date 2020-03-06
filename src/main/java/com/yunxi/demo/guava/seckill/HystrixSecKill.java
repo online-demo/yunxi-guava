@@ -4,7 +4,7 @@ import com.netflix.hystrix.*;
 
 /**
  * @Author 无双老师
- * @Date 2018/9/28
+ * @Date 2020-03-06
  * @Description Hystrix秒杀限流：商品瞬间被秒，不能达到较好的秒杀效果
  */
 public class HystrixSecKill extends HystrixCommand<String> {

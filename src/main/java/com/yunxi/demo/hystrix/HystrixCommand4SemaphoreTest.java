@@ -8,7 +8,7 @@ import java.io.IOException;
 
 /**
  * @Author: 无双老师
- * @Date: 2018/11/10
+ * @Date: 2020-03-06
  * @Description:
  * 测试信号量隔离策略
  * 默认执行run()用的是主线程，为了模拟并行执行command，这里我们自己创建多个线程来执行command
